@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\pc\source\repos\MalDev\Code_Injection_Thread_Hijacking\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\pc\source\repos\MalDev\x64\Debug\Code_Injection_Thread_Hijacking.exe : fatal error LNK1120: 1 unresolved externals

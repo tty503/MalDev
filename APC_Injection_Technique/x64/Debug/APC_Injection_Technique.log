@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\pc\source\repos\MalDev\APC_Injection_Technique\main.cpp(11,12): warning C4101: 'my_payload_mem': unreferenced local variable
+C:\Users\pc\source\repos\MalDev\APC_Injection_Technique\main.cpp(13,13): warning C4101: 'cmd': unreferenced local variable
+C:\Users\pc\source\repos\MalDev\APC_Injection_Technique\main.cpp(15,13): warning C4101: 'status': unreferenced local variable
+  APC_Injection_Technique.vcxproj -> C:\Users\pc\source\repos\MalDev\x64\Debug\APC_Injection_Technique.exe

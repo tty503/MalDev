@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\pc\source\repos\MalDev\Run_Shellcode_Inline_ASM\main.cpp(7,2): error C2290: C++ 'asm' syntax ignored. Use __asm.

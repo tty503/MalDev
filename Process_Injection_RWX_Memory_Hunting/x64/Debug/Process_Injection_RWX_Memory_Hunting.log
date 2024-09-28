@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(38,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+      C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(38,11):
+      consider using '%ls' in the format string
+      C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(38,11):
+      consider using '%lls' in the format string
+      C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(38,11):
+      consider using '%Ls' in the format string
+      C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(38,11):
+      consider using '%ws' in the format string
+  
+C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(45,13): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(45,13): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'PVOID'
+C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(40,1): error C4700: uninitialized local variable 'address' used
+C:\Users\pc\source\repos\MalDev\Process_Injection_RWX_Memory_Hunting\main.cpp(62,1): error C4703: potentially uninitialized local pointer variable 'ph' used

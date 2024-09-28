@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\pc\source\repos\MalDev\API_Hooking-Push_Retn\main.cpp(19,12): warning C4101: 'dst': unreferenced local variable
+C:\Users\pc\source\repos\MalDev\API_Hooking-Push_Retn\main.cpp(18,12): warning C4101: 'src': unreferenced local variable
+C:\Users\pc\source\repos\MalDev\API_Hooking-Push_Retn\main.cpp(16,12): warning C4101: 'rOffSet': unreferenced local variable
+C:\Users\pc\source\repos\MalDev\API_Hooking-Push_Retn\main.cpp(17,12): warning C4101: 'hookAddress': unreferenced local variable
+  API_Hooking-Push_Retn.vcxproj -> C:\Users\pc\source\repos\MalDev\Debug\API_Hooking-Push_Retn.exe

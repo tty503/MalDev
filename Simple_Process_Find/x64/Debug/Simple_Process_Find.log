@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\pc\source\repos\MalDev\Simple_Process_Find\main.cpp(24,12): warning C4244: '=': conversion from 'ULONG_PTR' to 'int', possible loss of data
+  Simple_Process_Find.vcxproj -> C:\Users\pc\source\repos\MalDev\x64\Debug\Simple_Process_Find.exe
